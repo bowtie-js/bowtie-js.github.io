@@ -1,0 +1,11 @@
+!doctype("html")
+html {
+  head {
+    import "head.bow"
+  }
+  body {
+    div#container.middle {
+      bowtie:content
+    }
+  }
+}

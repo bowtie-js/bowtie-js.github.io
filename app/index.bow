@@ -1,0 +1,11 @@
+extend "templates/layout.bow"
+
+h1: "bowtie"
+p: "An expressive template language for Node.js"
+
+div#bowtieeditor {
+  span: ""
+}
+div#htmleditor {
+  span: ""
+}
